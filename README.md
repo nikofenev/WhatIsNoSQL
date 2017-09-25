@@ -1,0 +1,2 @@
+# WhatIsNoSQL
+Technical research presentation
